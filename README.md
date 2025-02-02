@@ -10,15 +10,18 @@ A curated list of resource for expats in the UK
 
 ## Food
 
-| Item | Description |
+| Item                                      | Description                                          |
+| ----------------------------------------- | ---------------------------------------------------- |
 | [Sami's Online](https://samisonline.com/) | Specialist physical/online Afro-Caribbean superstore |
 
 ## Tech & Electronic
 
-| Item | Description |
+| Item                         | Description                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | [CeX](https://uk.webuy.com/) | Physical/online store that buys, sells, and exchanges used electronics, games, and tech products |
 
 ## Clothing
 
-| Item | Description |
+| Item                                | Description                                                                               |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Vinted](https://www.vinted.co.uk/) | Online marketplace for buying, selling, and swapping second-hand clothing and accessories |
