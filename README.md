@@ -16,9 +16,16 @@ A curated list of resource for expats in the UK
 
 ## Food
 
-| Item                                      | Description                                          |
-| ----------------------------------------- | ---------------------------------------------------- |
-| [Sami's Online](https://samisonline.com/) | Specialist physical/online Afro-Caribbean superstore |
+| Item                                                | Description                                                                             |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Sami's Online](https://samisonline.com/)           | Specialist physical/online Afro-Caribbean superstore                                    |
+| [Too Good To Go](https://www.toogoodtogo.com/en-us) | App connecting users with surplus food from restaurants and stores at discounted prices |
+
+## Transportation & Tickets
+
+| Item                                       | Description                                       |
+| ------------------------------------------ | ------------------------------------------------- |
+| [Trainline](https://www.thetrainline.com/) | Online platform for booking train and bus tickets |
 
 ## Tech & Electronic
 
