@@ -39,3 +39,9 @@ A curated list of resource for expats in the UK
 | Item                                          | Description                                                 |
 | --------------------------------------------- | ----------------------------------------------------------- |
 | [SportPursuit](https://www.sportpursuit.com/) | Online retailer offering discounted sports and outdoor gear |
+
+## Money & Payments
+
+| Item                        | Description                                                            |
+| --------------------------- | ---------------------------------------------------------------------- |
+| [LemFi](https://lemfi.com/) | Digital platform for fast and affordable international money transfers |
